@@ -61,7 +61,7 @@ img{
 }
 /*HEADER*/
 .header{
-    background-image: url(../img/banner.jpg);
+    background-image: url("./img/banner.jpg");
     height: 40rem;
     background-repeat: no-repeat;
     background-size: cover;
